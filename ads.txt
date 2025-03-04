@@ -1,0 +1,301 @@
+[
+  {
+    "author": {
+      "avatar": "img/avatars/user04.png"
+    },
+    "offer": {
+      "title": "Family cottage",
+      "address": "35.69197, 139.70970",
+      "price": 390,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi"
+      ],
+      "description": "Bright space",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.69197",
+      "y": "139.70970"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Minimalist apartment",
+      "address": "35.67733, 139.76190",
+      "price": 299,
+      "type": "bungalow",
+      "rooms": 1,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Luxury finish",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.67733",
+      "y": "139.76190"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user01.png"
+    },
+    "offer": {
+      "title": "Cozy apartment",
+      "address": "35.66695, 139.78432",
+      "price": 237,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 4,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator",
+        "conditioner"
+      ],
+      "description": "Comfortable layout",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.66695",
+      "y": "139.78432"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Quiet house",
+      "address": "35.66953, 139.74209",
+      "price": 119,
+      "type": "flat",
+      "rooms": 3,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Luxury finish",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.66953",
+      "y": "139.74209"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Stylish penthouse",
+      "address": "35.65091, 139.73196",
+      "price": 114,
+      "type": "house",
+      "rooms": 2,
+      "guests": 2,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking",
+        "washer",
+        "elevator"
+      ],
+      "description": "Elegant atmosphere",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.65091",
+      "y": "139.73196"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user08.png"
+    },
+    "offer": {
+      "title": "Cozy apartment",
+      "address": "35.65867, 139.71292",
+      "price": 287,
+      "type": "house",
+      "rooms": 3,
+      "guests": 2,
+      "checkin": "13:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking"
+      ],
+      "description": "Quiet neighborhood",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.65867",
+      "y": "139.71292"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Comfortable studio",
+      "address": "35.67369, 139.74820",
+      "price": 121,
+      "type": "bungalow",
+      "rooms": 3,
+      "guests": 3,
+      "checkin": "14:00",
+      "checkout": "14:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Minimalist style",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.67369",
+      "y": "139.74820"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Stylish penthouse",
+      "address": "35.66902, 139.70861",
+      "price": 498,
+      "type": "flat",
+      "rooms": 4,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Modern design",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.66902",
+      "y": "139.70861"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "title": "Country house",
+      "address": "35.69248, 139.79698",
+      "price": 420,
+      "type": "flat",
+      "rooms": 2,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher",
+        "parking"
+      ],
+      "description": "Quiet neighborhood",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.69248",
+      "y": "139.79698"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user02.png"
+    },
+    "offer": {
+      "title": "Family cottage",
+      "address": "35.69244, 139.73533",
+      "price": 352,
+      "type": "flat",
+      "rooms": 5,
+      "guests": 3,
+      "checkin": "12:00",
+      "checkout": "13:00",
+      "features": [
+        "wifi",
+        "dishwasher"
+      ],
+      "description": "Luxury finish",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel2.jpg",
+        "http://o0.github.io/assets/images/tokyo/hotel3.jpg"
+      ]
+    },
+    "location": {
+      "x": "35.69244",
+      "y": "139.73533"
+    }
+  },
+  {
+    "author": {
+      "avatar": "img/avatars/user05.png"
+    },
+    "offer": {
+      "address": "35.66465, 139.78116",
+      "features": [
+        "wifi"
+      ],
+      "description": "Luxury finish",
+      "photos": [
+        "http://o0.github.io/assets/images/tokyo/hotel1.jpg"
+      ]
+    }
+  }
+]
