@@ -4,13 +4,13 @@ const app = express();
 const port = 3003;
 const cors = require('cors');
 const fs = require('fs');
-const {ads} = require('./functions.js');
+const {offers} = require('./functions.js');
 
 app.use(cors());
 app.use(express.json());
 
-const saveAds = (res, respStatus, responseData) => {
-    fs.writeFile('ads.txt', JSON.stringify(ads, null, 2), err => {
+const saveOffers = (res, respStatus, responseData) => {
+    fs.writeFile('offers.txt', JSON.stringify(offers, null, 2), err => {
         if(err){
             return res.status(500).json({error: 'Server error'});
         }
@@ -22,14 +22,14 @@ app.options('*', (req, res) => {
     res.status(200);
 });
 
-app.get('/', (req, res) => {
-    saveAds(res, 200, ads);
+app.get('/offers', (req, res) => {
+    saveOffers(res, 200, offers);
 });
 
-app.post('/ads', (req, res) => {
+app.post('/offers', (req, res) => {
         const newItem = req.body;
-        ads.push(newItem);
-        saveAds(res, 201, newItem);
+        offers.push(newItem);
+        saveOffers(res, 201, newItem);
 });
 
 app.use((req, res) => {

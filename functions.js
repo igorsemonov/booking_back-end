@@ -43,6 +43,6 @@ function advert(){
     };
 };
 
-const ads = Array.from({length: 10}, () => advert());
+const offers = Array.from({length: 10}, () => advert());
 
-module.exports = {ads};
+module.exports = {offers};
